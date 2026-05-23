@@ -4,7 +4,7 @@ Place this inside:
 .github/profile/README.md
 -->
 
-<h1 align="center">🌸 SakuraTech-OxO</h1>
+<h1 align="center">SakuraTech</h1>
 
 <p align="center">
   <strong>A small anime-style tech hobby group.</strong>
