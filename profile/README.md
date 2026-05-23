@@ -149,11 +149,11 @@ GitHub Profile
 
 | Project | Description |
 |---|---|
-| sakura-core | 一些基础功能与实验 |
-| sakura-ai | AI 相关折腾 |
-| sakura-tools | 小工具集合 |
-| sakura-web | Web 实验项目 |
-| sakura-lab | 各种奇怪测试区 |
+| Sakura-core | 一些基础功能与实验 |
+| Sakura-ai | AI 相关折腾 |
+| Sakura-tools | 小工具集合 |
+| Sakura-web | Web 实验项目 |
+| Sakura-lab | 各种奇怪测试区 |
 
 ---
 
