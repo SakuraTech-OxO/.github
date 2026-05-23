@@ -36,8 +36,8 @@ SakuraTech-OxO 并不是什么“专业开发团队”。
 
 我们只是几个因为兴趣聚在一起的人。
 
-有时候写代码，
-有时候折腾 AI，
+有时候写代码，  
+有时候折腾 AI，  
 有时候只是单纯觉得：
 
 > “这个东西好像挺有意思。”
@@ -72,27 +72,27 @@ SakuraTech-OxO 并不是什么“专业开发团队”。
 
 <a href="https://github.com/RinTaigyoku">
   <img
-    src="https://github.com/RinTaigyoku.png"
-    width="100px"
-    style="border-radius:50%; border:3px solid #ffb7d5;"
+    src="https://github.com/RinTaigyoku.png?size=120"
+    width="100"
+    height="100"
     alt="RinTaigyoku"
   />
 </a>
 
 <a href="https://github.com/Ts-yf">
   <img
-    src="https://github.com/Ts-yf.png"
-    width="100px"
-    style="border-radius:50%; border:3px solid #a78bfa;"
+    src="https://github.com/Ts-yf.png?size=120"
+    width="100"
+    height="100"
     alt="Ts-yf"
   />
 </a>
 
 <a href="https://github.com/WM-wuming">
   <img
-    src="https://github.com/WM-wuming.png"
-    width="100px"
-    style="border-radius:50%; border:3px solid #7dd3fc;"
+    src="https://github.com/WM-wuming.png?size=120"
+    width="100"
+    height="100"
     alt="WM-wuming"
   />
 </a>
@@ -234,7 +234,7 @@ enterprise startup company
 anime hacker club
 ```
 
-如果某个项目刚好也能帮到别人，
+如果某个项目刚好也能帮到别人，  
 那就已经很开心了。
 
 ---
@@ -266,7 +266,7 @@ anime hacker club
 
 请在自行评估风险后使用。
 
-对于因使用本组织项目而产生的任何问题，
+对于因使用本组织项目而产生的任何问题，  
 本组织不承担任何责任。
 
 ---
