@@ -4,10 +4,6 @@ Place this inside:
 .github/profile/README.md
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SakuraTech-OxO/.github/main/profile/banner.png" width="100%" alt="SakuraTech-OxO Banner"/>
-</p>
-
 <h1 align="center">🌸 SakuraTech-OxO</h1>
 
 <p align="center">
@@ -75,56 +71,73 @@ SakuraTech-OxO 并不是什么“专业开发团队”。
 <p align="center">
 
 <a href="https://github.com/RinTaigyoku">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinTaigyoku&repo=.github&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github.com/RinTaigyoku.png"
+    width="100px"
+    style="border-radius:50%; border:3px solid #ffb7d5;"
+    alt="RinTaigyoku"
+  />
 </a>
 
 <a href="https://github.com/Ts-yf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-yf&repo=.github&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github.com/Ts-yf.png"
+    width="100px"
+    style="border-radius:50%; border:3px solid #a78bfa;"
+    alt="Ts-yf"
+  />
 </a>
 
 <a href="https://github.com/WM-wuming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WM-wuming&repo=.github&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github.com/WM-wuming.png"
+    width="100px"
+    style="border-radius:50%; border:3px solid #7dd3fc;"
+    alt="WM-wuming"
+  />
 </a>
 
 </p>
 
 <table align="center">
 <tr>
-<td align="center">
+
+<td align="center" width="33%">
 
 ### 🌸 RinTaigyoku
 
 Founder / Chaos Generator
 
 <a href="https://github.com/RinTaigyoku">
-  GitHub Profile
+GitHub Profile
 </a>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🍃 沂沨
 
 Random Idea Supplier
 
 <a href="https://github.com/Ts-yf">
-  GitHub Profile
+GitHub Profile
 </a>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🌙 WM无名
 
 Bug Producer & Fixer
 
 <a href="https://github.com/WM-wuming">
-  GitHub Profile
+GitHub Profile
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -136,11 +149,11 @@ Bug Producer & Fixer
 
 | Project | Description |
 |---|---|
-| Sakura-core | 一些基础功能与实验 |
-| Sakura-ai | AI 相关折腾 |
-| Sakura-tools | 小工具集合 |
-| Sakura-web | Web 实验项目 |
-| Sakura-lab | 各种奇怪测试区 |
+| sakura-core | 一些基础功能与实验 |
+| sakura-ai | AI 相关折腾 |
+| sakura-tools | 小工具集合 |
+| sakura-web | Web 实验项目 |
+| sakura-lab | 各种奇怪测试区 |
 
 ---
 
@@ -170,7 +183,7 @@ Bug Producer & Fixer
 ```
 
 <a href="https://qm.qq.com/q/QIKUpAB6E2">
-  Join QQ Group
+Join QQ Group
 </a>
 
 ---
@@ -182,7 +195,7 @@ Bug Producer & Fixer
 ```
 
 <a href="https://qm.qq.com/q/Rv6pE8M8Ug">
-  Join QQ Group
+Join QQ Group
 </a>
 
 ---
@@ -192,7 +205,7 @@ Bug Producer & Fixer
 ### 🧪 测试中
 
 <a href="https://t.me/+LXRTOLMVRwI4Mjk1">
-  Join Telegram
+Join Telegram
 </a>
 
 ---
@@ -223,16 +236,6 @@ anime hacker club
 
 如果某个项目刚好也能帮到别人，
 那就已经很开心了。
-
----
-
-# 📊 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakuraTech-OxO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraTech-OxO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
