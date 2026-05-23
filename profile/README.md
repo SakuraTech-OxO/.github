@@ -1,65 +1,311 @@
-# ✨ 关于我们
+<!--
+SakuraTech-OxO Organization Profile README
+Place this inside:
+.github/profile/README.md
+-->
 
-**Sakura Tech** 不是一个严谨的技术组织，而是一个**由兴趣驱动的互联网交流小团伙**。  
-我们因为共同的热爱而聚集：**二次元、游戏、音乐、技术、还有整活**。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SakuraTech-OxO/.github/main/profile/banner.png" width="100%" alt="SakuraTech-OxO Banner"/>
+</p>
 
-这里是代码与热忱交汇的地方，也是**分享、学习、玩耍**的据点。  
-我们相信，技术的温度来自于背后的人与故事。
+<h1 align="center">🌸 SakuraTech-OxO</h1>
 
----
+<p align="center">
+  <strong>A small anime-style tech hobby group.</strong>
+</p>
 
-## 🧭 我们的日常
+<p align="center">
+  一群喜欢折腾的普通人。<br>
+  写点代码，做点小工具，偶尔整点奇怪项目。
+</p>
 
-- 🎨 **二次元文化**：动画、漫画、轻小说、资源收集，以及所有美好的 ACGN 事物。
-- 💻 **技术整活**：JavaScript / PHP / HTML / JSON / 机器人适配器…… 写点好玩的东西，不追求优雅，但求有趣。
-- 📦 **资源考古**：收集、整理、分享那些值得被保留的数字遗产。
-
----
-
-## 👥 核心成员
-
-### [RinTaigyoku](https://github.com/RinTaigyoku)  
-### [ZY沂沨](https://github.com/Ts-yf)  
-### [WM无名](https://github.com/WM-wuming)  
-
-成员们来自不同地方，有着不同的职业和技能，但都带着一颗“好玩”的心。
-
----
-
-## 🧩 如何加入
-
-我们暂时不搞“严格审核”，更看重**气味相投**。
-
-如果你想：
-- 分享你的代码、资源、创作
-- 一起研究某个游戏的奇怪机制
-- 组织线上听歌会 / 老番回顾
-- 或者只是找个地方聊聊二次元和技术
-
-欢迎来 **Issues** 或 **Discussions** 冒个泡 👋  
-
-毕业群： [632910692](https://qm.qq.com/q/QIKUpAB6E2)
-
-班级群： [1057604000](https://qm.qq.com/q/Rv6pE8M8Ug)
-
-beta： [114514](https://t.me/+LXRTOLMVRwI4Mjk1)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-sleep%20deprived-ffb7d5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/powered%20by-anime%20energy-a78bfa?style=for-the-badge">
+  <img src="https://img.shields.io/badge/code-probably%20works-7dd3fc?style=for-the-badge">
+</p>
 
 ---
 
-## 📌 注意事项
+# 🌸 About
 
-- 尊重彼此：不引战、不嘲讽、不主动传播盗版商业作品。
-- 保持热情：可以菜，可以慢，但请真诚。
-- 技术项目遵循对应开源协议，资源分享注明来源。
-- **开心第一，整活第二。**
+SakuraTech-OxO 并不是什么“专业开发团队”。
+
+这里没有：
+
+- 大厂工程师
+- CTO
+- 企业级流程
+- 特别正规的开发规范（大概）
+
+我们只是几个因为兴趣聚在一起的人。
+
+有时候写代码，
+有时候折腾 AI，
+有时候只是单纯觉得：
+
+> “这个东西好像挺有意思。”
+
+于是就开坑了。
 
 ---
 
-## 🌸 最后
+# ✨ What We Make
 
-> 技术会过时，番剧会完结，游戏会停服。  
-> 但和一群有趣的人一起折腾过的时光，会留在代码和笑声里。
+我们可能会做：
 
-**Sakura Tech** – 不只是技术，更是相遇。
+- 小工具
+- AI 相关实验
+- 自动化脚本
+- 奇怪的 Web 项目
+- 二次元浓度过高的东西
+- 不知道为什么会存在的项目
 
-<!-- 欢迎 PR 你的 idea，一起完善这个页面！ -->
+项目更新速度通常取决于：
+
+- 有没有灵感
+- 有没有时间
+- 有没有熬夜
+- 有没有突然失踪（？）
+
+---
+
+# 👥 Members
+
+<p align="center">
+
+<a href="https://github.com/RinTaigyoku">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RinTaigyoku&repo=.github&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ts-yf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ts-yf&repo=.github&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/WM-wuming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WM-wuming&repo=.github&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🌸 RinTaigyoku
+
+Founder / Chaos Generator
+
+<a href="https://github.com/RinTaigyoku">
+  GitHub Profile
+</a>
+
+</td>
+
+<td align="center">
+
+### 🍃 沂沨
+
+Random Idea Supplier
+
+<a href="https://github.com/Ts-yf">
+  GitHub Profile
+</a>
+
+</td>
+
+<td align="center">
+
+### 🌙 WM无名
+
+Bug Producer & Fixer
+
+<a href="https://github.com/WM-wuming">
+  GitHub Profile
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📦 Projects
+
+> slowly building...
+
+| Project | Description |
+|---|---|
+| Sakura-core | 一些基础功能与实验 |
+| Sakura-ai | AI 相关折腾 |
+| Sakura-tools | 小工具集合 |
+| Sakura-web | Web 实验项目 |
+| Sakura-lab | 各种奇怪测试区 |
+
+---
+
+# 💬 Community
+
+欢迎来玩。
+
+无论是：
+
+- 开源
+- AI
+- 二次元
+- 技术交流
+- 摸鱼闲聊
+- 深夜发癫（？）
+
+我们都欢迎。
+
+---
+
+## 🌸 QQ Groups
+
+### 💤 老群（已停止运营）
+
+```txt
+632910692
+```
+
+<a href="https://qm.qq.com/q/QIKUpAB6E2">
+  Join QQ Group
+</a>
+
+---
+
+### ✨ 新群（活跃运营中）
+
+```txt
+1057604000
+```
+
+<a href="https://qm.qq.com/q/Rv6pE8M8Ug">
+  Join QQ Group
+</a>
+
+---
+
+## ✈ Telegram
+
+### 🧪 测试中
+
+<a href="https://t.me/+LXRTOLMVRwI4Mjk1">
+  Join Telegram
+</a>
+
+---
+
+# 🌙 Philosophy
+
+比起“专业”，
+
+我们更喜欢：
+
+- 有趣
+- 自由
+- 创造欲
+- 自己喜欢的东西
+- 能表达自己的项目
+
+我们不太想把这里变成：
+
+```txt
+enterprise startup company
+```
+
+更希望它像：
+
+```txt
+anime hacker club
+```
+
+如果某个项目刚好也能帮到别人，
+那就已经很开心了。
+
+---
+
+# 📊 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakuraTech-OxO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraTech-OxO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# ⚠ Disclaimer
+
+本组织的所有项目默认均为：
+
+- 兴趣开发
+- 学习用途
+- 非商业性质（除特殊声明外）
+- 实验性质项目
+
+由于成员并非专业开发人员，因此：
+
+- 不保证代码质量
+- 不保证长期维护
+- 不保证功能稳定
+- 不保证兼容性
+- 不保证文档完整
+- 不提供任何形式的专业担保
+
+部分项目可能存在：
+
+- Bug
+- 安全问题
+- 未完成内容
+- 长期弃坑情况
+
+请在自行评估风险后使用。
+
+对于因使用本组织项目而产生的任何问题，
+本组织不承担任何责任。
+
+---
+
+# 💌 Contact
+
+欢迎：
+
+- Issue
+- Pull Request
+- Discussion
+- 技术交流
+- 二次元交流（？）
+
+如果你也喜欢：
+
+- 开源
+- AI
+- 动漫
+- 折腾奇怪东西
+- 深夜写代码
+
+那我们大概会聊得来。
+
+---
+
+# 🌸 Aesthetic Notes
+
+当前组织风格：
+
+- Sakura Pink
+- Tokyo Night
+- Anime × Tech
+- Cyber Moe
+- Hobby Coding
+
+---
+
+<p align="center">
+  made with ☕ + 熬夜 + 二次元浓度
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@SakuraTech-OxO?theme=moebooru">
+</p>
