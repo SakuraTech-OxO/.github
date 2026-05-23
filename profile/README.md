@@ -303,7 +303,7 @@ anime hacker club
 
 ---
 
-# 🌸 Aesthetic Notes
+# 🧩 Aesthetic Notes
 
 当前组织风格：
 
@@ -316,7 +316,7 @@ anime hacker club
 ---
 
 <p align="center">
-  made with ☕ + 熬夜 + 二次元浓度
+  Active since 2021
 </p>
 
 <p align="center">
