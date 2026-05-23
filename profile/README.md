@@ -114,7 +114,7 @@ SakuraTech-OxO 并不是什么“专业开发团队”。
 
 ### 🌸 RinTaigyoku
 
-Founder / Chaos Generator
+Chaos Generator
 
 <a href="https://github.com/RinTaigyoku">
 GitHub Profile
@@ -126,7 +126,7 @@ GitHub Profile
 
 ### 🍃 沂沨
 
-Random Idea Supplier
+Bug Producer & Fixer
 
 <a href="https://github.com/Ts-yf">
 GitHub Profile
@@ -138,7 +138,7 @@ GitHub Profile
 
 ### 🌙 WM无名
 
-Bug Producer & Fixer
+Random Idea Supplier
 
 <a href="https://github.com/WM-wuming">
 GitHub Profile
