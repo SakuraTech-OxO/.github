@@ -21,6 +21,14 @@ Place this inside:
   <img src="https://img.shields.io/badge/code-probably%20works-7dd3fc?style=for-the-badge">
 </p>
 
+<p align="center">
+  <img
+    src="https://pic1.imgdb.cn/item/6a119d3b6211f5ac19ec36ca.jpg"
+    width="100%"
+    alt="SakuraTech-OxO Banner"
+  />
+</p>
+
 ---
 
 # 🌸 About
