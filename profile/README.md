@@ -182,7 +182,7 @@ GitHub Profile
 
 ---
 
-## 🌸 QQ Groups
+## ☕️ Group Chat
 
 ### 💤 老群（已停止运营）
 
@@ -210,7 +210,9 @@ Join QQ Group
 
 ## ✈ Telegram
 
-### 🧪 测试中
+```txt
+Soft Opening
+```
 
 <a href="https://t.me/+LXRTOLMVRwI4Mjk1">
 Join Telegram
