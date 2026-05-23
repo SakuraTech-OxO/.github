@@ -317,6 +317,8 @@ anime hacker club
 
 <p align="center">
   Active since 2021
+<p align="center">
+  Connected by passion.
 </p>
 
 <p align="center">
