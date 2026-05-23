@@ -136,7 +136,7 @@ GitHub Profile
 
 <td align="center" width="33%">
 
-### 🌙 WM无名
+### 🌙 无名
 
 Random Idea Supplier
 
@@ -208,7 +208,7 @@ Join QQ Group
 
 ---
 
-## ✈ Telegram
+## ✈ Telegram（Bate）
 
 ```txt
 Soft Opening
