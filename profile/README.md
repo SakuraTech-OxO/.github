@@ -74,7 +74,7 @@ SakuraTech-OxO 并不是什么“专业开发团队”。
 
 ---
 
-# 👥 Members
+# 👥 Founder Member
 
 <p align="center">
 
