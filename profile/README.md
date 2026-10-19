@@ -208,7 +208,7 @@ Join QQ Group
 
 ---
 
-## ✈ Telegram（Bate）
+## ✈ Telegram（Beta）
 
 ```txt
 Soft Opening
